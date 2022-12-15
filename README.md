@@ -1,2 +1,3 @@
-# app-dev
-My first repository
+Jumong  
+Percy Jackson & The lightning Bolt  
+Harry potter
